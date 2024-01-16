@@ -3,18 +3,18 @@ h1, h2 {
 }
 
 h1 {
-    padding-top: 1em;
+    padding-top: 1%;
 }
 
 h2 {
-    padding-top: 1rem;
+    padding-top: 2rem;
 }
 
 textarea {
     margin: auto;
     position:absolute;
-    top: 20%;
-    left: 30%;
+    top: 30%;
+    left: 20%;
     width: 800px;
     height: 100px;
     text-align: center;
@@ -23,7 +23,7 @@ textarea {
 button {
     margin: auto;
     position: absolute;
-    top: 35%;
-    left: 46.8%;
+    top: 52%;
+    left: 45%;
     
 }
