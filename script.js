@@ -95,7 +95,7 @@ let upperCaseBoolean;
 let numericBool;
 let specialCharactersBool;
 let randomItem;
-let newPasswordArray = [];
+let newPasswordArray = []; 
 
 // FUNCTION 1: Function to prompt user for password options
 function getPasswordOptions() {
